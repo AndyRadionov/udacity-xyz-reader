@@ -131,7 +131,7 @@
         android:clickable="true"
         android:contentDescription="@string/action_share"
         android:src="@drawable/ic_share"
-        app:elevation="8dp"
+        app:elevation="6dp"
         app:layout_anchor="@id/app_bar"
         app:layout_anchorGravity="bottom|end" />
 
